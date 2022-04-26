@@ -1,0 +1,27 @@
+.contenedor-temp-completa{
+    width: 650px;
+    height: 120px;
+    margin: 20px 20px 20px 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color:#00055C;
+    border-radius: 21px;
+}
+
+.contenedor-date-completa{
+    font-weight: lighter;
+    font-size: 13px; 
+    font-family: lato, sans-serif;
+    color: white;
+    font-weight:lighter;
+    display: flex;
+    flex-direction: column;
+    padding-right: 350px;
+}
+
+.contenedor-temp{
+    display: flex;
+    
+}

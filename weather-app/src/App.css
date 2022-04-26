@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+.big-div{
+    display: flex;  
+}
+h1,h2,h3{
+    color:white;
+    font-weight: lighter;
+    font-family: lato, sans-serif;
+}
+.mini-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.next-forecast{
+    margin-left: 30px;
+}

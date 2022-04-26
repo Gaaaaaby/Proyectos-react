@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif; ;
+}
+.contenedor-header{
+    background-color: aliceblue;
+}
+
+.div-1{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-start;
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: lighter;
+    
+}
+.div-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: flex-end;
+    margin-right: 15px;
+}
+.ropa-mujer, .ropa-hombre, .ropa-kids{
+    margin-left: 24px;
+}
+.money, .carrito{
+    margin-left: 15px;
+    height: 37px;
+}
+
+/* estilos del body  */
+
+.container-clothes{
+    margin: 100px;
+}
+.img-prenda{
+  height: 300px;
+}

@@ -1,0 +1,35 @@
+:root{
+    -background-color-cth: #00055C;
+}
+.contenedor-temp-hora{
+    width: 250px;
+    height: 120px;
+    margin: 20px 20px 20px 30px;
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color:#00055C;
+    border-radius: 21px;
+}
+.imagen-clima{
+    height: 75px;
+    width: auto;
+    margin-right: 30px;
+}
+.hora-clima{
+    margin-top:30px;
+    font-size:20px;
+    font-family: lato, sans-serif;
+    color: #ffff;
+    font-weight: lighter;
+}
+.temp-clima{
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: lato, sans-serif;
+    color: #ffff;
+    font-weight: lighter;
+}
+
